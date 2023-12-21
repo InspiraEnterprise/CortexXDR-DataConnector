@@ -15,7 +15,7 @@ Before diving into the implementation, ensure you have the following in place:
    <br />
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%2Fgithub.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fblob%2Fmain%2Fazuredeploy.json)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)]https://portal.azure.com/#create/Microsoft.Template/uri/[https%3A%2F%2Fgithub.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fblob%2Fmain%2Fazuredeploy.json]
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)]https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fblob%2Fmain%2Fazuredeploy.json
 
 
 3. Select the preferred Subscription, Resource Group and Location
