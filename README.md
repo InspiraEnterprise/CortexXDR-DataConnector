@@ -13,7 +13,6 @@ Before diving into the implementation, ensure you have the following in place:
 1. Click "Deploy To Azure"
    <br />
    <br />
-
    [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fmain%2Fazuredeploy.json)
 
 
