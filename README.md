@@ -11,13 +11,14 @@ Before diving into the implementation, ensure you have the following in place:
 # Installation / Setup Guide
 
 1. Click "Deploy To Azure"
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://github.com/pranjalv01/CortexXDR-Data-Connector/blob/main/azuredeploy.json)
+   
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%2Fgithub.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fblob%2Fmain%2Fazuredeploy.json)
 
 
-3. Select the preferred Subscription, Resource Group and Location
+2. Select the preferred Subscription, Resource Group and Location
 
-4. Click on Review and deploy
-5. Once the deployment succeeded, goto Configuration and provide below details:
+3. Click on Review and deploy
+4. Once the deployment succeeded, goto Configuration and provide below details:
    a. WORKSPACE_ID = AzureSentinelWorkspaceId
    b. SHARED_KEY = AzureSentinelSharedKey
    c. API_URL = CortexXDRAPIUrl
