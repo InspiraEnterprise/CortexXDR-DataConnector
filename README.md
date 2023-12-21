@@ -11,12 +11,13 @@ Before diving into the implementation, ensure you have the following in place:
 # Installation / Setup Guide
 
 1. Click "Deploy To Azure"
-![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://github.com/pranjalv01/CortexXDR-Data-Connector/blob/main/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://github.com/pranjalv01/CortexXDR-Data-Connector/blob/main/azuredeploy.json)
 
-2. Select the preferred Subscription, Resource Group and Location
 
-3. Click on Review and deploy
-4. Once the deployment succeeded, goto Configuration and provide below details:
+3. Select the preferred Subscription, Resource Group and Location
+
+4. Click on Review and deploy
+5. Once the deployment succeeded, goto Configuration and provide below details:
    a. WORKSPACE_ID = AzureSentinelWorkspaceId
    b. SHARED_KEY = AzureSentinelSharedKey
    c. API_URL = CortexXDRAPIUrl
@@ -25,8 +26,8 @@ Before diving into the implementation, ensure you have the following in place:
 
    Note: Replace with the orginal value.
 
-5. Click on save.
-6. You can see one custom table name "PaloAltoSentinel_CL" in your Log Analytics Workspace.
+6. Click on save.
+7. You can see one custom table name "PaloAltoSentinel_CL" in your Log Analytics Workspace.
 
    
 
