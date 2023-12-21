@@ -18,12 +18,18 @@ Before diving into the implementation, ensure you have the following in place:
 2. Select the preferred Subscription, Resource Group and Location
 
 3. Click on Review and deploy
-4. Once the deployment succeeded, goto Configuration and provide below details:<br />
-   a. WORKSPACE_ID = AzureSentinelWorkspaceId<br />
-   b. SHARED_KEY = AzureSentinelSharedKey<br />
-   c. API_URL = CortexXDRAPIUrl<br />
-   d. USER = CortexXDRAccessKeyID<br />
-   e. PASSWORD = CortexXDRSecretKey<br />
+4. Once the deployment succeeded, goto Configuration and provide below details:
+   <br />
+   a. WORKSPACE_ID = AzureSentinelWorkspaceId
+   <br />
+   b. SHARED_KEY = AzureSentinelSharedKey
+   <br />
+   c. API_URL = CortexXDRAPIUrl
+   <br />
+   d. USER = CortexXDRAccessKeyID
+   <br />
+   e. PASSWORD = CortexXDRSecretKey
+   <br />
 
    Note: Replace with the orginal value.
 
