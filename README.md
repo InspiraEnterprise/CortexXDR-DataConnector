@@ -14,7 +14,7 @@ Before diving into the implementation, ensure you have the following in place:
    <br />
    <br />
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fmain%2Fazuredeploy.json)
+   [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpranjalv01%2FCortexXDR-Data-Connector%2Fmain%2Fazuredeploy.json)
 
 
 3. Select the preferred Subscription, Resource Group and Location
@@ -22,15 +22,15 @@ Before diving into the implementation, ensure you have the following in place:
 4. Click on Review and deploy
 5. Once the deployment succeeded, goto Configuration and provide below details:
    <br />
-   a. WORKSPACE_ID = AzureSentinelWorkspaceId
+   a. WORKSPACE_ID = Azure Sentinel Workspace Id
    <br />
-   b. SHARED_KEY = AzureSentinelSharedKey
+   b. SHARED_KEY = Azure Sentinel Shared Key
    <br />
-   c. API_URL = CortexXDRAPIUrl
+   c. API_URL = Cortex XDR API Url
    <br />
-   d. USER = CortexXDRAccessKeyID
+   d. USER = Cortex XDR Access Key ID
    <br />
-   e. PASSWORD = CortexXDRSecretKey
+   e. PASSWORD = Cortex XDR Secret Key
    <br />
 
    Note: Replace with the orginal value.
